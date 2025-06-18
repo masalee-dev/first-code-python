@@ -1,3 +1,2 @@
 # first-code-python
-
-with ssh!
+This is fake/demo project with python
