@@ -24,7 +24,7 @@ print('\nSay Hi All')
 for a in children:
     print(f'Hi {a}!')
 
-#another way
+# another way
 print('\nSay Hi All')
 for a in range(0, len(children)):
     print(f'{a+1}. Hai {children[a]}')
