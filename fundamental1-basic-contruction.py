@@ -17,5 +17,5 @@ else:
 
 # Repetition
 number_of_children = 4
-for index_children in range(1, number_of_children+1): #number of repetitions
+for index_children in range(1, number_of_children+1): # number of repetitions
     print(f'Hi Kids #{index_children}')
