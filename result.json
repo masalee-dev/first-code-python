@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "Haeder Ali",
+  "username": "masalee",
+  "email": "haederalee@gmail.com",
+  "address": {
+    "street": "Bogasari",
+    "suite": "No 17",
+    "city": "Bogor",
+    "zipcode": "16980"
+  }
+}
